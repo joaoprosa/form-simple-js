@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+label{
+    font-style: italic;
+}
+input{
+    margin-top: 10px;
+    margin-left: 10px;
+}
